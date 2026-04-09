@@ -17,15 +17,25 @@ This project analyzes customer support tickets using AI.
 ## Structure
 
 ai-support-ticket-analyzer
+
 │
+
 ├─ data
+
 │   └─ tickets.csv
+
 │
+
 ├─ notebooks
+
 │   └─ analysis.ipynb
+
 │
+
 ├─ app.py
+
 ├─ requirements.txt
+
 └─ README.md
 
 
